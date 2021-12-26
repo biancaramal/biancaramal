@@ -1,10 +1,13 @@
 ### Olá, eu sou a Bianca Ramal! 🚀
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-ramal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/bianca-ramal)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bianca-ramal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.linkedin.com/in/bianca-ramal)
 
-![Bianca Ramal's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancaramal&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancaramal)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/biancaramal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaramal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaramal&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias
 <div style="display: inline_block">
@@ -17,3 +20,7 @@
     <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
      <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div><br/>
+
+  ![Snake animation](https://github.com/biancaramal/biancaramal/blob/output/github-contribution-grid-snake.svg)
+
+    
