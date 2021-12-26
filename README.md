@@ -17,5 +17,8 @@
     <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
      <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div><br/>
+  
+<div>
   ![Snake animation](https://github.com/biancaramal/biancaramal/blob/output/github-contribution-grid-snake.svg)
+</div>
 
