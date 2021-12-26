@@ -21,6 +21,6 @@
      <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div><br/>
 
-  ![Snake animation](https://github.com/biancaramal/biancaramal/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/biancaramal/blob/output/github-contribution-grid-snake.svg)
 
     
