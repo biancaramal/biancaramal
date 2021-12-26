@@ -1,4 +1,4 @@
- <img align="right" alt="bianca-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/biancaramal/biancaramal/output/avatar.png">
+ <img align="right" alt="bianca-pic" height="180" src="https://raw.githubusercontent.com/biancaramal/biancaramal/main/.github/workflows/bianca-avatar.png">
  
 ## Oiiie, sou a Bianca Ramal! 👩‍💻
 #### Apaixonada por tecnologia e desenvolvimento mobile 🤩🚀
