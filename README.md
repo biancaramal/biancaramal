@@ -1,7 +1,7 @@
  <img align="right" alt="bianca-pic" height="150" style="border-radius:50px;" src="https://github.com/biancaramal/biancaramal/blob/main/.github/workflows/IMG_1876.PNG">
  
-## Oiiie, sou a Bianca Ramal, apaixonada por tecnologia e desenvolvimento mobile 🤩🚀
-
+## Oiiie, sou a Bianca Ramal! 👩‍💻
+#### Apaixonada por tecnologia e desenvolvimento mobile 🤩🚀
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/biancaramal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/biancaramal_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -9,7 +9,7 @@
 </div><br>
 
 ##
-## Tecnologias usadas diariamente
+## Tecnologias
 <div align="center">
     <img align="center" alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=35&color=currentColor" /> -
     <img align="center" alt="css" src="https://icongr.am/devicon/css3-original.svg?size=35&color=currentColor" /> -
