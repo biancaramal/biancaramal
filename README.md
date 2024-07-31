@@ -1,10 +1,10 @@
- <img align="right" alt="bianca-pic" height="180" src="https://raw.githubusercontent.com/biancaramal/biancaramal/main/.github/workflows/bianca-avatar.png">
- 
+<img align="right" alt="bianca-pic" height="180" style="position: relative; z-index: 1;" src="https://raw.githubusercontent.com/biancaramal/biancaramal/main/.github/workflows/bianca-avatar.png">
+
 ## Oiiie, sou a Bianca Ramal! 👩‍💻
-#### Apaixonada por tecnologia e desenvolvimento mobile 🤩🚀
+#### Sou Dev Full Stack, apaixonada por tecnologia e desenvolvimento mobile 🤩🚀
 <div style="display: inline_block">
   <a href="https://linkedin.com/in/bianca-ramal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/biancaramal_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/bianca.ramal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:biancasramal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
 
@@ -18,7 +18,7 @@
     <img align="center" alt="ts" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -
     <img align="center" alt="angular" src="https://icongr.am/devicon/angularjs-original.svg?size=35&color=currentColor" /> -
     <img align="center" alt="react" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -
-    <img align="center" alt="laravel" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+    <img align="center" alt="laravel" src="https://icongr.am/devicon/laravel-plain.svg?size=35&&color=F05340" />
 <!--   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
