@@ -1,11 +1,11 @@
-<img align="right" alt="bianca-pic" height="180" style="position: relative; z-index: 1;" src="https://raw.githubusercontent.com/biancaramal/biancaramal/main/.github/workflows/bianca-avatar.png">
+<!-- img align="right" alt="bianca-pic" height="180" src="https://raw.githubusercontent.com/biancaramal/biancaramal/main/.github/workflows/bianca-avatar.png" -->
 
 ## Oiiie, sou a Bianca Ramal! 👩‍💻
 #### Sou Dev Full Stack, apaixonada por tecnologia e desenvolvimento mobile 🤩🚀
 <div style="display: inline_block">
   <a href="https://linkedin.com/in/bianca-ramal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/bianca.ramal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:biancasramal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:biancasramal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
 
 ##
